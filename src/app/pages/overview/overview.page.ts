@@ -70,8 +70,8 @@ export class OverViewPage {
         },
         layout: {
           padding: {
-            left: 5,
-            right: 5,
+            left: 10,
+            right: 12,
             bottom: 0,
             top: 0
           }
